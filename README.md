@@ -10,7 +10,7 @@ The purpose of this analysis was to create an efficient code to run over a list 
 - There were three counties that voted in this congressional election; **Jefferson**, **Denver**, and **Arapahoe**. Jefferson county had 38,855 votes casted, which equals *10.5%* of the total votes casted. Denver county had 306,055 votes casted, which equals *82.8%* of the total votes casted. The last county, Arapahoe, had 24,801 votes casted, which equals *6.7%* of the total votes casted.
 - Denver county had the largest number of votes casted.
 - There were three candidates that ran in this elections; **Charles** **Stockham**, **Diana** **DeGette**, and **Raymon** **Doane**. Charles Stockham received 85,213 votes, which was *23.0%* of the total votes. Diana Degette received 272,892 votes, which was *73.8%* of the total vote. Finally, Raymon Doane received 11,606 votes, which was *3.1%* of the total votes.
-- The winner of the election was **Diana Degette**. She received 272,892 votes which was 73.8% of the total votes. The full election results can be found here [Election results](analysis/Election_Results.png).
+- The winner of the election was **Diana Degette**. She received 272,892 votes which was 73.8% of the total votes. The full election results can be found here [Election results](Module_3_Challenge/analysis/Election_Results.png).
 
 
 ## Summary
